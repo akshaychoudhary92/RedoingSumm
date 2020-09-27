@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/RedoingSumm.iml" filepath="$PROJECT_DIR$/.idea/RedoingSumm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SummOne/SummOne.iml" filepath="$PROJECT_DIR$/SummOne/SummOne.iml" />
+    </modules>
+  </component>
+</project>
