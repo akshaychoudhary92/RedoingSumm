@@ -24,16 +24,16 @@ public class SomeMath {
             largest = a;
             System.out.println(largest);
         }else if(b > c && b > d && b > e){
-            largest =b;
+            largest = b;
             System.out.println(largest);
         }else if(c > d && c > e){
             largest = c;
             System.out.println(largest);
         }else if(d > e){
-            largest =d;
+            largest = d;
             System.out.println(largest);
         }else{
-            largest =e;
+            largest = e;
             System.out.println(largest);
         }
         return largest;
